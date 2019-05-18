@@ -1,0 +1,9 @@
+#require "oUnit";;
+#require "ANSITerminal";;
+#directory "_build";;
+#load "dictionary.cmo";;
+#load "command.cmo";;
+#load "backend.cmo";;
+#load "frontend.cmo";;
+#load "leaderboard.cmo";;
+#load "model.cmo";;
